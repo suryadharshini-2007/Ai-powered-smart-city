@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Smart Agricultural City",
+  "description": "Full-stack interactive 3D smart agricultural city prototype featuring modular zone scenes, IoT telemetry, real-time simulation controls, and analytical dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
